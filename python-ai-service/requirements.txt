@@ -1,0 +1,21 @@
+fastapi
+uvicorn[standard]
+psycopg2-binary
+pydantic
+redis
+sqlalchemy
+alembic
+aiohttp
+requests
+cryptography
+
+# Post-Quantum Cryptography
+pqcrypto
+
+# AI/ML Libraries
+torch
+torchvision
+scikit-learn
+numpy
+
+# For PyTorch, install platform-specific wheel as needed. See pytorch_trainer.py for details.
